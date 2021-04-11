@@ -1,6 +1,6 @@
 # JavaTask
 # Java Fundamentals (Folder JavaFundamentals)
-# Main Task 1 (Subfolder Main1)
+# Main Task (Subfolder Main1)
 Реализовать следующие программы:
 1.     Приветствовать любого пользователя при вводе его имени через командную строку.
 
@@ -65,6 +65,7 @@
 # Авиакомпания (Subfolder aircompany)
 В этом модуле есть одно большое задание. Вам необходимо исправить все ошибки в проекте aircompany. Сделайте копию проекта и постарайтесь отыскать и исправить все нарушения практик написания чистого кода.
 
+# Java. Collections (Folder JavaCollections)
 # Main Task (Subfolder MusicalPlaylistWriter)
 Для успешного освоения курса достаточно выполнить один вариант.
  
