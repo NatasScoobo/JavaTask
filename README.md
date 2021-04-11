@@ -1,5 +1,5 @@
 # JavaTask
-# Java Fundamentals (Folder JavaFundamentals
+# Java Fundamentals (Folder JavaFundamentals)
 # Main Task 1 (Folder Main1)
 Реализовать следующие программы:
 1.     Приветствовать любого пользователя при вводе его имени через командную строку.
